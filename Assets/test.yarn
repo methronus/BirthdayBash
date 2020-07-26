@@ -1,0 +1,24 @@
+title: Start
+tags: 
+colorID: 0
+position: 360,-841
+---
+How's it going?
+
+[[ answer: nice|great]] 
+[[ answer: very nice|greater]]
+===
+title: great
+tags: 
+colorID: 0
+position: 576,-562
+---
+haha
+===
+title: greater
+tags: 
+colorID: 0
+position: 217,-523
+---
+lolol
+===
